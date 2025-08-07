@@ -1,4 +1,10 @@
 # 💫 About Me:
+
+<h1 align="center">Hi 👋, I'm Nafis Sharier Dodul</h1>
+<h3 align="center">There's always room for improvement no matter what!</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukit-blaster&label=Profile%20views&color=0e75b6&style=flat" alt="mukit-blaster" /> </p>
 🚀 Passionate about turning ideas into impactful software.  <br>🧠 Lifelong learner exploring the world of AI, Web Development, and IoT.  <br>🇧🇩 Based in Dhaka, Bangladesh | 🌍 Building for a global audience <br>⚡ Fun fact I tried competitive programming
 
 
