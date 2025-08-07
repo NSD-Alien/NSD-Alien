@@ -13,10 +13,10 @@
 ---
 
 <img align="right" alt="coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/640px-Rotating_earth_%28large%29.gif">
-🚀 Passionate about turning ideas into impactful software.  <br>🧠 Lifelong learner exploring the world of AI, Web Development, and IoT.  <br>🇧🇩 Based in Dhaka, Bangladesh | 🌍 Building for a global audience <br>⚡ Fun fact I tried competitive programming
+🚀 Passionate about turning ideas into impactful software.  <br>🧠 Lifelong learner exploring the world.  <br>🇧🇩 Based in Dhaka, Bangladesh | 🌍 Building for a global audience <br>⚡ Fun fact I am a competitive programmer
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NSD.Nafis.Sharier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafissharier) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31230668) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nafis_Sharier) 
 
 # 💻 Tech Stack:
