@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5a36f0e63a0aa687662aad485e707ea806cb364377b222adb9b8fa78c88bde47/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966">
+<img align="right" alt="coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/640px-Rotating_earth_%28large%29.gif">
 🚀 Passionate about turning ideas into impactful software.  <br>🧠 Lifelong learner exploring the world of AI, Web Development, and IoT.  <br>🇧🇩 Based in Dhaka, Bangladesh | 🌍 Building for a global audience <br>⚡ Fun fact I tried competitive programming
 
 
