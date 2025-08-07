@@ -3,7 +3,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" width="100%" alt="banner">
 </p>
 <h1 align="center">Hi 👋, I'm Nafis Sharier Dodul</h1>
-<h3 align="center">🚀 Developer | 💻  competitive Programmer | 🌱 Lifelong Learner</h3>
+<!-- <h3 align="center">🚀 Developer | 💻  competitive Programmer | 🌱 Lifelong Learner</h3> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=competitive+Programmer;Web+App+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
+</p>
+
 
 
 ---
