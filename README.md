@@ -1,10 +1,14 @@
-# 💫 About Me:
-
+<!-- Banner -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" width="100%" alt="banner">
+</p>
 <h1 align="center">Hi 👋, I'm Nafis Sharier Dodul</h1>
-<h3 align="center">There's always room for improvement no matter what!</h3>
+<h3 align="center">🚀 Developer | 💻  competitive Programmer | 🌱 Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukit-blaster&label=Profile%20views&color=0e75b6&style=flat" alt="mukit-blaster" /> </p>
+
+---
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5a36f0e63a0aa687662aad485e707ea806cb364377b222adb9b8fa78c88bde47/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966">
 🚀 Passionate about turning ideas into impactful software.  <br>🧠 Lifelong learner exploring the world of AI, Web Development, and IoT.  <br>🇧🇩 Based in Dhaka, Bangladesh | 🌍 Building for a global audience <br>⚡ Fun fact I tried competitive programming
 
 
